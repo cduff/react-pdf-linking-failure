@@ -1,0 +1,10 @@
+{
+  "name": "react-pdf-linking-failure",
+  "scripts": {
+    "test": "node --trace-warnings ./node_modules/jest/bin/jest.js"
+  },
+  "dependencies": {
+    "@react-pdf/renderer": "2.0.21",
+    "jest": "27.4.2"
+  }
+}
